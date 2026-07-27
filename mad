@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+            background: #f4f4f4;
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+        h1 {
+            color: #333;
+        }
+        a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <img src="profile.jpg" alt="Profile Photo">
+        <h1>Your Name</h1>
+        <p>Web Developer | Student | AI Enthusiast</p>
+
+        <h2>About Me</h2>
+        <p>
+            Welcome to my personal website! I enjoy building web applications,
+            learning new technologies, and contributing to open-source projects.
+        </p>
+
+        <h2>Projects</h2>
+        <p>
+            • Portfolio Website<br>
+            • Weather App<br>
+            • To-Do List App
+        </p>
+
+        <h2>Contact</h2>
+        <p>
+            Email: your@email.com<br>
+            GitHub:
+            <a href="https://github.com/yourusername">
+                github.com/yourusername
+            </a>
+        </p>
+    </div>
+</body>
+</html>
